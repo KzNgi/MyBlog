@@ -1,0 +1,2 @@
+class Messafe < ApplicationRecord
+end
